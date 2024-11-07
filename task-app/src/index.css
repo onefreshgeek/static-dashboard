@@ -1,0 +1,17 @@
+/* src/index.css */
+@import '@fontsource/space-grotesk/400.css'; /* Regular weight */
+@import '@fontsource/space-grotesk/500.css'; /* Medium weight */
+@import '@fontsource/space-grotesk/600.css'; /* Semi-bold weight */
+@import '@fontsource/space-grotesk/700.css'; /* Bold weight */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+body {
+  background-color: #f7f7f8;
+  color: #333;
+}
